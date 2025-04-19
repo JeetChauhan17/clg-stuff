@@ -1,0 +1,8 @@
+Unit-3 Types of errors in programming
+https://www.linkedin.com/pulse/types-errors-python-manish-v-
+
+Unit-4 Structured programming concepts
+http://facweb.cs.depaul.edu/sjost/it211/documents/structured.htm#:~:text=Structured%20Programming%20in%20Python,indicated%20by%20indenting%20four%20spaces.
+
+Unit-4 Programming methodologies viz. top-down and bottom-up programming
+https://www.tutorialspoint.com/difference-between-top-down-and-bottom-up-approach
