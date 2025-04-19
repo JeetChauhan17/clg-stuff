@@ -1,0 +1,29 @@
+DBMS QUESTION BANK:-(Diagrams where necessary) [24->MID-SEM]
+
+1. Explain the databse system application with purpose,advantages and disadvantages.
+2. List out and explain view of data.
+3. Write a short note on types of database languages.
+4. Write a short note on rdbms.
+5. Explain the following in dbms:
+	-> Data storage
+	-> Query
+6. List out and explain types of database users and administrators.
+7. Explain the structure of rdbms in detail.
+8. List out various set operations.Explain any 2 with example.
+9. List out various aggregate functions.Explain any 3 with example.
+10. Quries
+11. Write a short note on sub-query.Explain with examples.
+12. List out various types of keys(primary,foreign,candidate,super,alternate etc)
+13. Explain the concept of Schema Diagram in detail.
+14. What is relational query language?Explain with relational operations.
+15. List out various types of joins.Explain any 2 with example.
+16. Write query to create view.(2m)
+17. What is entity-relationship model?.Explain with constraints of ER Model.
+18. Write a short note on Extended ER Model with Features.
+19. List out and explain alternative notations of ER Model.
+20. What is normalization?Explain with advantages and disadvantages.
+21. Explain the concept of 1st Normal form in detail. [Step wise answer and use an example to explain]
+22. Write a short note on Decomposition using Functional dependencies.
+23. List out and explain types of functional dependencies.
+24. Explain the concept of 2nd normal form with example
+25. 
